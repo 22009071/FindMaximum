@@ -73,7 +73,7 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-![](maxp1![image](https://user-images.githubusercontent.com/120206067/214652342-97aeda0e-e40d-4db5-b06b-d47e4e7fcf82.png)
+![](maxp1[imageC:\Users\kabilan\Pictures\Screenshots\Screenshot_20230125_115646.png.png)
 .png)
 
 ![](maxp2.png)
