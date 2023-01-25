@@ -78,7 +78,8 @@ def max_marks(list1):
 
 ![](maxp2.png)
 
-![](maxp3.png)
+![](maxp3![image](https://user-images.githubusercontent.com/120206067/214652594-38036ba8-8508-498e-a229-ed69267a9249.png)
+.png)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
