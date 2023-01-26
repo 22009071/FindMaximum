@@ -70,7 +70,7 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
-![output](./img/max_marks1.jpg) 
+![output](Screenshot_20230125_115646.png) 
 
 ## Output:
 ![](maxp1![Uploading image.png…]()png)
