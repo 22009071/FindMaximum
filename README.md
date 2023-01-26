@@ -76,7 +76,7 @@ def max_marks(list1):
 ![](maxp1![Uploading image.png…]()png)
 
 
-![](maxp2"C:\Users\kabilan\Pictures\Screenshots\Screenshot_20230125_115708.png".png)
+![](Screenshot_20230125_115708.png)
 
 ![](maxp3![image](https://user-images.githubusercontent.com/120206067/214652594-38036ba8-8508-498e-a229-ed69267a9249.png)
 .png)
